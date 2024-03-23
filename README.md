@@ -4,7 +4,7 @@ Welcome to the Machine Learning Research Paper Keyword Extractor project! This p
 
 ## Overview
 
-The Machine Learning Research Paper Keyword Extractor is a Python-based tool that leverages natural language processing (NLP) techniques to analyze research papers and extract relevant keywords. It is particularly useful for researchers, students, and anyone interested in quickly identifying key concepts and topics covered in a large corpus of research papers.
+The Machine Learning Research Paper Keyword Extractor is a Python-based tool that leverages NLP techniques to analyze research papers and extract relevant keywords. It is particularly useful for researchers, students, and anyone interested in quickly identifying key concepts and topics covered in a large corpus of research papers.
 
 ## Features
 
@@ -12,7 +12,3 @@ The Machine Learning Research Paper Keyword Extractor is a Python-based tool tha
 - Preprocess text data using tokenization, stop word removal, and lemmatization
 - Customizable number of keywords to extract
 - Simple and easy-to-use Python interface
-
-## Installation
-
-To install the Machine Learning Research Paper Keyword Extractor, simply clone this repository:
